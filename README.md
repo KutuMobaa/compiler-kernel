@@ -1,2 +1,2 @@
-# compiler-kerne
+# compiler-kernel
 Script Untuk Mengcompile Kernel Android
